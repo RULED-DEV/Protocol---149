@@ -15,6 +15,11 @@ install instructions :
 
 gameplay notes :
 
-the player could accelerate forward and backward(WS), side to side(AS) and also up and down(space/shift) and also rotate the ship(mouse).
+the player could accelerate forward and backward(WS), side to side(AS) and also up and down(space/Left control).
+the ship could also be rolled left and right(QE) and the player could rotate the ship along the other 2 axis(mouse).
+
+the player could fire their weapon(lmb) and lock onto a target().
+
+using 1,2,3 the player could deactivate aspects of the UI and with p the player could quit the game.
 
 please direct all inquiries, questions and problems to ruled.dev@gmail.com
