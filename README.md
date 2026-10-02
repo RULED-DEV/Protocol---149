@@ -1,4 +1,5 @@
-unity game project _name from _year (_state). _description
+unity game project protocol - 149 from 2025 (abandoned). protocol 149 primarily featured a ship that could fly and rotate through 3d space, using this
+ship the player would dodge increasingly harder waves of projectiles and missiles which would track the player.
 
 requirements :
   - OS that can run unity editor.
@@ -14,6 +15,6 @@ install instructions :
 
 gameplay notes :
 
-
+the player could accelerate forward and backward(WS), side to side(AS) and also up and down(space/shift) and also rotate the ship(mouse).
 
 please direct all inquiries, questions and problems to ruled.dev@gmail.com
